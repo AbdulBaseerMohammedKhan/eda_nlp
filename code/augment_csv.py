@@ -1,5 +1,6 @@
 # Easy data augmentation techniques for text classification
 # Jason Wei and Kai Zou
+# Modified by Abdul Baseer
 
 from eda import *
 
